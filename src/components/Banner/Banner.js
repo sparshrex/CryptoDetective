@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Portfolio
+            Crypto Detective
           </Typography>
           <Typography
             variant="subtitle2"
