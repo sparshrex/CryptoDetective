@@ -4,7 +4,7 @@
 
 
 ## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+#### Here is a working live demo :  https://netlify-deploy-cryptodetective.netlify.app/
 
 ## Built with 
 
